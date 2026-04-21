@@ -7,6 +7,7 @@ An interactive Power BI dashboard analyzing 500k+ retail transactions to track A
 📈 Key Insights:
 
 
+
 Total Revenue: 89.66K
 
 Total Orders: 36
